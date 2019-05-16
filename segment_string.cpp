@@ -2,6 +2,7 @@
 Given a non-empty string input_string and a dictionary consisting of non-empty words
 To determine whethe the string can be segmented into one or more words.
 To return false if it cannot be segmented.
+Time complextity: O(n*m) where n is the size of the string and m is the size of the dictionary
 *******************************************************************************/
 #include<iostream>
 #include<map>
