@@ -9,7 +9,7 @@ example(set): 4 = 0100(in binary form)
 example(clear): 4 = 0100
                if i = 1 then output is 0100 because there is no bit to clear
                if i = 2  then output is 0000 the 1 bit in 2nd position is cleared
-note: a<<b == a = 2^b  and
+note: a<<b == a * 2^b  and
       a>>b == a/2^b
 
 *******************************************************************************/
